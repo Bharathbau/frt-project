@@ -1,4 +1,4 @@
-# Future Ready Talent - MyPdfAddA
+# Future Ready Talent - FoodHut
 
 
 
@@ -6,16 +6,11 @@ AZURE LINK : https://agreeable-mud-0b1eb1410.1.azurestaticapps.net
 
 
 
-MyPdfAddA is our project that is done as the solution for searching of pdfs of our subjects 
-as our solution we made a webpage that where we kept all our pdfs and their cloud links in our site which is used to help and download the pdf file that required
-
+FoodHut is our project that is done as the solution for searching of best Foddies of us 
+as our solution we made a webpage that where we few food items  in our site which is used to help 
 
 # Features
 -  Good UI
-
--  Separate pages according to our semesters
-
--  Every Pdf Will load from drive for instant view or for download
 
 -  Easy To Navigate
 
@@ -47,15 +42,15 @@ as our solution we made a webpage that where we kept all our pdfs and their clou
 # About Us
 We are BTech pursuing Students,from both 4th and #rd year we consider this as problem as we facing the same situtaion regularly.our team
 
--  Uday Kiran Pamu(Lead)
+-  Bharath Babu Bommidi(Lead)
 
--  G Mallika
+-  B Rama Ganesh
 
--  N Srilatha
+-  B Sai
 
--  M Poojitha
+-  D Nikhil
 
 
 # Privacy Policies 
-
-https://www.freeprivacypolicy.com/live/a6b55d2e-c44e-4be6-9df2-b0f291e811db
+[
+https://www.freeprivacypolicy.com/live/a6b55d2e-c44e-4be6-9df2-b0f291e811db](https://www.freeprivacypolicy.com/live/2c5114ae-03b1-4694-82fa-45d29ad874c5)
